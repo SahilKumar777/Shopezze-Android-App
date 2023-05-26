@@ -1,6 +1,7 @@
 # Shopify Ecommerce Android App 
    <img src="Screenshots/appLogo.jpg" alt="Image" width="450"/>
 ### Ecommerce Android App by Sahil Kumar
+  
   -   Android based E-commerce application to provide a simple and easy interface to the user, 
 so that the users can easily explore various products and their details smoothly even with or without login and signup into the app,
 
@@ -26,7 +27,7 @@ so that the users can easily explore various products and their details smoothly
 
 |Screen-1|Screen-2|Screen-3|Screen-4|Screen-5|
 |----|----|----|----|----|
-|<img src="Screenshots/welcomeScreen1.jpg" alt="Image" width="100"/>|<img src="Screenshots/welcomeScreen2.jpg" alt="Image" width="100"/>|<img src="Screenshots/welcomeScreen3.jpg" alt="Image" width="100"/>|<img src="Screenshots/welcomeScreen4.jpg" alt="Image" width="100"/>|<img src="Screenshots/welcomeScreen1.png" alt="Image" width="100"/>| 
+|<img src="Screenshots/welcomeScreen1.jpg" alt="Image" width=""/>|<img src="Screenshots/welcomeScreen2.jpg" alt="Image" width=""/>|<img src="Screenshots/welcomeScreen3.jpg" alt="Image" width=""/>|<img src="Screenshots/welcomeScreen4.jpg" alt="Image" width=""/>|<img src="Screenshots/welcomeScreen1.png" alt="Image" width=""/>| 
 
 ### Category Tabs
   **Home** 
@@ -64,7 +65,7 @@ so that the users can easily explore various products and their details smoothly
 
 |Offers|Electronics|Lifestyle|Appliances|Books & More| 
 |----|----|----|----|----|
-|<img src="Screenshots/offersTabNew.png" alt="Image" width="100"/>|<img src="Screenshots/electronicsTabNew.png" alt="Image" width="100"/>|<img src="Screenshots/lifestyle%20TabNew.png" alt="Image" width="100"/>|<img src="Screenshots/homeApplianceTabNew.png" alt="Image" width="100"/>|<img src="Screenshots/booksTabNew.png" alt="Image" width="100"/>|
+|<img src="Screenshots/offersTabNew.png" alt="Image" width=""/>|<img src="Screenshots/electronicsTabNew.png" alt="Image" width=""/>|<img src="Screenshots/lifestyle%20TabNew.png" alt="Image" width=""/>|<img src="Screenshots/homeApplianceTabNew.png" alt="Image" width=""/>|<img src="Screenshots/booksTabNew.png" alt="Image" width=""/>|
 
 
 
@@ -95,7 +96,7 @@ so that the users can easily explore various products and their details smoothly
 
 |Main Menu|My Cart|Orders|Description|Wishlist|
 |----|----|----|----|----|
-|<img src="Screenshots/appMenuNew.png" alt="Image" width="100"/>|<img src="Screenshots/myCartNew.png" alt="Image" width="100"/>|<img src="Screenshots/myCartNew.png" alt="Image" width="100"/>|<img src="Screenshots/productDescriptionNew.png" alt="Image" width="100"/>|<img src="Screenshots/wishlistNew.png" alt="Image" width="100"/>|
+|<img src="Screenshots/appMenuNew.png" alt="Image" width=""/>|<img src="Screenshots/myCartNew.png" alt="Image" width=""/>|<img src="Screenshots/myCartNew.png" alt="Image" width=""/>|<img src="Screenshots/productDescriptionNew.png" alt="Image" width=""/>|<img src="Screenshots/wishlistNew.png" alt="Image" width=""/>|
 
 
 
@@ -132,7 +133,7 @@ so that the users can easily explore various products and their details smoothly
 
 |My Account|Signup|Login|Addresses|Forgot Pass|
 |----|----|----|----|----|
-|<img src="Screenshots/signupActivityNew.png" alt="Image" width="100"/>|<img src="Screenshots/googleLogin.png" alt="Image" width="100"/>|<img src="Screenshots/loginActivityNew.png" alt="Image" width="100"/>|<img src="Screenshots/address.png" alt="Image" width="100"/>|<img src="Screenshots/forgotPassNew.png" alt="Image" width="100"/>| 
+|<img src="Screenshots/signupActivityNew.png" alt="Image" width=""/>|<img src="Screenshots/googleLogin.png" alt="Image" width=""/>|<img src="Screenshots/loginActivityNew.png" alt="Image" width=""/>|<img src="Screenshots/address.png" alt="Image" width=""/>|<img src="Screenshots/forgotPassNew.png" alt="Image" width=""/>| 
 
 ## Other Options 
   **Search** 
@@ -157,10 +158,10 @@ so that the users can easily explore various products and their details smoothly
 
 A list of technologies used within the project:
 
-* [java](https://example.com): Version 1.0 
+* [java](https://example.com): Version 13 
 
 * [XML](https://example.com): Version 1.0
 
-* [Android Studio](https://example.com): Version 1.0
+* [Android Studio](https://example.com): Version 2020.3.1
 
-* [Virtual Android Device](https://example.com): Version 1.0
+* [Virtual Android Device](https://example.com): Version 29.0.11
